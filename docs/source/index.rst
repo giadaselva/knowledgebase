@@ -63,6 +63,7 @@ This documentation includes user and project manuals for the Blaauw Observatory 
    pm/p15-star-formation-spirals
    pm/p16-properties-comet
    pm/p17-observing-dwarf-planets
+   pm/p99-spectroscope
    pm/results
    pm/r03-narrow-lines
    pm/guides
