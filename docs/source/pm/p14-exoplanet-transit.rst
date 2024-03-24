@@ -13,17 +13,20 @@ Useful Background and References:
 
 Observation Planning:
 ^^^^^^^^^^^^^^^^^^^^^
+    * Observation Time
+
+        * You will be observing a whole night.
 
     * Target Selection
 
-        * You should select an appropriate transit within your observing time frame that has a bright enough host star, and a big enough dip in brightness, to be detectable in your observations
-        * Make sure you have a finder chart so you know which is your star of interest in the field, and also record the predicted times of the exoplanet transit..
+        * You should select an appropriate transit within your observing time frame that has a bright enough host star, and a big enough dip in brightness, to be detectable in your observations.
+        * Make sure you have a finder chart so you know which is your star of interest in the field, and also record the predicted times of the exoplanet transit.
 
     * Observations
 
         * You should maximise the signal-to-noise in your observations, using a large amount of binning and the broadest possible filter, with fairly long exposure times. You should make sure to have a great set of calibration frames to remove any image artefacts. You should take observations of standard star fields so that you are able to calibrate the magnitudes that you observe.
 
-Data Ananlysis:
+Data Analysis:
 ^^^^^^^^^^^^^^^
 
 
