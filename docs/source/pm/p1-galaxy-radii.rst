@@ -17,6 +17,9 @@ Useful Background and References:
 
 Observation Planning:
 ^^^^^^^^^^^^^^^^^^^^^
+    * Observation Time
+
+        * You will be observing HALF a night shift.
 
    *  Target Selection
 
@@ -35,7 +38,7 @@ Observation Planning:
       *  To calibrate your data you should also observe standard star
          fields.
 
-Data-Analysis
+Data Analysis
 ^^^^^^^^^^^^^
 
    *  Data Reduction Basic Steps
@@ -57,8 +60,8 @@ Data-Analysis
          brightness profile for the galaxy
    *  Further Analysis for this project
 
-      *  Determine whether a de Vaucouleurs a^1/4 profile or an
-         exponential exp(a) profile fits the surface brightness profile
+      *  Determine whether a de Vaucouleurs :math:`a^{\frac{1}{4}}` profile or an
+         exponential :math:`\exp(a)` profile fits the surface brightness profile
          best
       *  Determine the scale length of the galaxy (the effective radius
          in the de Vaucouleurs profile, or the scale length of an
