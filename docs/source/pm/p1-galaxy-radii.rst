@@ -17,9 +17,9 @@ Useful Background and References:
 
 Observation Planning:
 ^^^^^^^^^^^^^^^^^^^^^
-    * Observation Time
+   * Observation Time
 
-        * You will be observing HALF a night shift.
+      * You will be observing HALF a night shift.
 
    *  Target Selection
 
@@ -33,8 +33,8 @@ Observation Planning:
    *  Observations
 
       *  We suggest that you take images in at least two
-         bands: *B* and *R*. If you have time, also take images in
-         the *V* band.
+         bands: :math:`B` and :math:`R`. If you have time, also take images in
+         the :math:`V` band.
       *  To calibrate your data you should also observe standard star
          fields.
 
