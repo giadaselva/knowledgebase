@@ -12,6 +12,9 @@ https://theskylive.com/haumea-tracker (this allows you to make finder charts, an
 
 Observation Planning:
 ^^^^^^^^^^^^^^^^^^^^^
+    * Observation time
+
+        *You will be observing for a full night shift for this project
 
     * Target Selection
 
